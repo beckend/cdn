@@ -1,9 +1,11 @@
 {
-  "commons.js": "commons-988d5fbf84f5a50c8aff.js",
+  "commons.js": "commons-38cc2d1f79f2d3502c83.js",
   "favicons/react-icon.svg": "favicons/yandex-browser-manifest.json",
+  "fonts.css": "fonts-2019-12-14.css",
+  "fonts.woff2": "fonts/Roboto-Black.woff2",
   "main.js": "main-66c49f409e3fae7e619c.js",
   "react-icon.svg": ".cache",
-  "runtime.js": "runtime-b42ac9d185f93424bd7a.js",
+  "runtime.js": "runtime-9640da61ce0e06b78328.js",
   "styles.css": "11-0d05c4e17b5c17627aa6.css",
   "styles.js": "styles-ab5dfe4a2e8436a01ad2.js",
   "vendors~main.js": "vendors~main-2194d0d887eb3febc7dd.js"
